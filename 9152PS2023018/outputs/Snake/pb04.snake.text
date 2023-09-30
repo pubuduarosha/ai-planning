@@ -1,0 +1,21 @@
+----------------------Tasks-----------------------
+0: hunt()
+---------------------Planning---------------------
+Time: 0.000881195068359375s
+-----------------------Plan-----------------------
+0: move_long(viper px0y1 px1y1 px1y2 px1y3)
+1: move_long(viper px0y0 px0y1 px1y1 px1y2)
+2: move_long(viper px1y0 px0y0 px0y1 px1y1)
+3: move_long(viper px2y0 px1y0 px0y0 px0y1)
+4: move_long(viper px3y0 px2y0 px1y0 px0y0)
+5: move_long(viper px4y0 px3y0 px2y0 px1y0)
+6: move_long(viper px4y1 px4y0 px3y0 px2y0)
+7: move_long(viper px4y2 px4y1 px4y0 px3y0)
+8: move_long(viper px3y2 px4y2 px4y1 px4y0)
+9: move_long(viper px2y2 px3y2 px4y2 px4y1)
+10: move_long(viper px1y2 px2y2 px3y2 px4y2)
+11: move_long(viper px0y2 px1y2 px2y2 px3y2)
+12: move_long(viper px0y1 px0y2 px1y2 px2y2)
+13: move_long(viper px1y1 px0y1 px0y2 px1y2)
+14: move_long(viper px2y1 px1y1 px0y1 px0y2)
+15: strike(viper px2y1 px3y1)
